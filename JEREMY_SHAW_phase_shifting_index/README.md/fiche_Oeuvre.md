@@ -25,6 +25,9 @@ Au début je ne savais pas trop le but de l'exposition et de quoi cela en consis
 ### Dehors fondrie
 ![media](media/dehors_fondrie.jpg)
 
+### Vue ensemble
+![media](media/phase_shifting_index.jpg)
+
 ### 2020
 ![media](media/phase_shifting_index_2020.jpg)
 
