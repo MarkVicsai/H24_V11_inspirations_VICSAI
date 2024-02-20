@@ -22,6 +22,10 @@ Au début je ne savais pas trop le but de l'exposition et de quoi cela en consis
 
 ## Apuis Visuel
 
+### 2020
+![media](media/phase_shifting_index_2020.jpg)
+
+### Plafond
 ![media](media/plafond.jpg)
 
 ### Projecteur
