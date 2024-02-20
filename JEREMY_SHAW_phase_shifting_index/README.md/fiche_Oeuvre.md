@@ -25,10 +25,9 @@ Au début je ne savais pas trop le but de l'exposition et de quoi cela en consis
 ### 2020
 ![media](media/phase_shifting_index_2020.jpg)
 
-### Lumiere
-![media](media/projection_lumieres.jpg)
 
-### Speaker
+
+### Speaker et lumiere
 ![media](media/speakers_plafond.jpg)
 
 ### Plafond
