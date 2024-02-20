@@ -22,10 +22,11 @@ Au début je ne savais pas trop le but de l'exposition et de quoi cela en consis
 
 ## Apuis Visuel
 
+### Dehors fondrie
+![media](media/dehors_fondrie.jpg)
+
 ### 2020
 ![media](media/phase_shifting_index_2020.jpg)
-
-
 
 ### Speaker et lumiere
 ![media](media/speakers_plafond.jpg)
