@@ -19,4 +19,8 @@ Soucre:https://macm.org/expositions/jeremy-shaw.
 ## Expérience vécu
 Au début je ne savais pas trop le but de l'exposition et de quoi cela en consistais, les lumieres etaient claires, des video typiques. Tout d'un coup tout change, la musique, les lumieres, les videos, personne bougaient, c'est comme si ont ce fesaient hypnotiser par les vidéo disposé sur les écrants. J'ai bien aimer les effects utiliser lors de ce momment ainsi des effects vhs au début. Les banc de tapis est parfait pour le comfort pour regarder les chorégraphies. En conclusion une expérience bizzard mais subblime en meme temps.
 
+
+## Apuis Visuel
+
+### Projecteur
 ![media](media/projecteur.jpg)
