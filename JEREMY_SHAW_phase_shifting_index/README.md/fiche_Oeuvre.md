@@ -10,7 +10,10 @@ Le Musée d’art contemporain de Montréal présente Phase Shifting Index situe
 Une vaste installation vidéo immersive sur sept écrans affichent se faire reconnaître pour vrai des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. les formats, film 16 mm au VHS en passant par le Hi-8 ont été utiliser pour l'oeuvre. 
 
 ## Création 
-Phase Shifting Index concu par Jeremy Shaw en 2020, l'exposition de montreal a lieu jusqu'au 25 février 2024. Les mouvements de types rituels exécutés dans les séquences diffusées sur des écrans indépendants depuis une plateforme surélevée, évoquent des cultures uniques dont les systèmes de croyances sont fondés sur l’idée d’induire des réalités parallèles par le mouvement. Soucre:https://macm.org/expositions/jeremy-shaw. 
+Phase Shifting Index concu par Jeremy Shaw en 2020, l'exposition de montreal a lieu jusqu'au 25 février 2024. 
+Les mouvements de types rituels exécutés dans les séquences diffusées sur des écrans indépendants depuis une plateforme surélevée, évoquent des cultures uniques dont les systèmes de croyances sont fondés sur l’idée d’induire des réalités parallèles par le mouvement. La mise en espace de la piece est concu pour faire rester les personnes et a regarder l'oeuvre jusqu'a la fin de l'exposition. Le plancher de tapis donne du confort ainsi de la musique et des sons fait resentir un athmosphere calme pour oublier a comprendre la raison des video disposer sur les ecrant
+
+Soucre:https://macm.org/expositions/jeremy-shaw. 
 
 
 ![media](media/projecteur.jpg)
