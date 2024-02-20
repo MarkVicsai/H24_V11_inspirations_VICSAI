@@ -22,6 +22,8 @@ Au début je ne savais pas trop le but de l'exposition et de quoi cela en consis
 
 ## Apuis Visuel
 
+![media](media/plafond.jpg)
+
 ### Projecteur
 ![media](media/projecteur.jpg)
 
