@@ -11,4 +11,4 @@ Cette conférence nous a introduit aux oeuvres de Raphael Lozano-hemmer par la r
 
 ## Conclusion 
 
-  À mes yeux, je commence par dire que cette conférence d'une source d'inspiration
+À mes yeux, je commence par dire que cette conférence est grande une source d'inspiration. 
