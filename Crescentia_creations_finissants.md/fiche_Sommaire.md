@@ -18,6 +18,10 @@ Premièrement, Canevas cosmique est une oeuvre ou le visiteure devra y intéragi
 ### Voici l'oeuvre Canevas cosmique completée
 ![media](media/Canevas_cosmique.jpg)
 
+### Voici le schéma de l'installation prévue (Plan technique)
+
+
+
 ## Analyse
 
 
