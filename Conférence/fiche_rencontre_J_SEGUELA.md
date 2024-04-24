@@ -16,4 +16,5 @@ Premierement, ici, il s'agit des garndes idees partagees lors de la conference. 
 
 
 ![media](média/Translation_Stream.PNG)
+
 Source: https://www.lozano-hemmer.com/translation_stream.php
