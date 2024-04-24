@@ -14,3 +14,4 @@ Premierement, ici, il s'agit des garndes idees partagees lors de la conference. 
 
 À mes yeux, je commence par dire que cette conférence est grande une source d'inspiration. Voir Jade expliquer en détails, les étapes de conceptualisations me convaint que le programe multimedias ce trouve bien sur mon chemain de carrière. Il etais rare que je puisse obtenir une presentation descriptive, par une experte selon mon domaine de carriere. Je pense me trouver dans une situation ou la chance me sourit:  Et c'est pour cela que cette reunion dans la salle Claude Legault a de la valeur a mes yeux, car c'est comme une machine dans le temps.
 
+![media](media/Translation_Stream.jpg)
