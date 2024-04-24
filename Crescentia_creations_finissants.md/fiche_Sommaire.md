@@ -13,7 +13,7 @@ Premièrement, Canevas cosmique est une oeuvre ou le visiteure devra y intéragi
 ### Voici l'instalation en cours de l'oeuvre Canevas cosmique 
 ![media](media/table_canevas_cosmique_avant.jpg)
 
-![media](media/table_canevas_cosmique_avant.jpg)
+![media](media/projection_canevas_cosmique_avant.jpg)
 
 ### Voici l'oeuvre Canevas cosmique completée
 ![media](media/Canevas_cosmique.jpg)
