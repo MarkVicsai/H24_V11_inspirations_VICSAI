@@ -7,7 +7,7 @@ Cette conférence nous a introduit aux oeuvres de Raphael Lozano-hemmer par la r
 
 ## Développement 
 
-Premierement, ici, il s'agit des garndes idees partagees lors de la conference. La biographie de Raphael Lozano-hemmer tel de Jade Séguéla ont ete adresser pour apprendre d'avantage sur leurs metiers. Cette rencontre nous montre comment il est important de documenter une oeuvre avant son envoi. 
+Premierement, ici, il s'agit des garndes idees partagees lors de la conference. La biographie de Raphael Lozano-hemmer tel de Jade Séguéla ont ete adresser pour apprendre d'avantage sur leurs metiers. Cette rencontre nous montre comment il est important de documenter une oeuvre avant son envoi a l'internationnal. Jade nous demontre cela en nous expliquant clairement que cette etape est importante pour le bon deroulement, non seuement de l'exposition, mais aussi pour sa construction. Evidament, l'inventaire joue un role important aussi dans la conceptualisation et la logistique: pour savoir quels sont les ressourses pour l'oeuvre. 
 
 
 ## Conclusion 
