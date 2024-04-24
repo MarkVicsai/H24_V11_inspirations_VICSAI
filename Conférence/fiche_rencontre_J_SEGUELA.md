@@ -9,6 +9,8 @@ Cette conférence nous a introduit aux oeuvres de Raphael Lozano-hemmer par la r
 
 
 
+
+
 ## Conclusion 
 
-À mes yeux, je commence par dire que cette conférence est grande une source d'inspiration. 
+À mes yeux, je commence par dire que cette conférence est grande une source d'inspiration. Voir Jade expliquer, en details, les etapes de conceptualisations me convaint que le programe multimedias ce trouve bien sur mon chemain de carriere. Les oeuvres, ainsi que les etapes de realisations, et la facon de laquel elles ont ete presentee me donne de l'espoire face au future insertain en raison du fait que Jade a ccomplit cela. Dans le temps, il etais rare qu'un eleve puisse obtenir une presentation descriptive, par une experte. Je pense me trouver dans une situation ou la chance me sourit: j'ai l'opportunite de reviser non pas un cahier mais plustot mon future emplois. Et c'est pour cela que cette reunion dans la salle Claude Legault a de la valeur a mes yeux, car c'est comme une machine dans le temps.
