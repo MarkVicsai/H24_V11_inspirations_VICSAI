@@ -10,6 +10,9 @@ Crescentia, veut aussi « croissance » en latin, ce qui explique le choix du no
 ## Description
 Premièrement, Canevas cosmique est une oeuvre ou le visiteure devra y intéragire en déplaçant une statuette sur une table qui fera bouger une certaine planette dans le système solaire projecter sur un ecrant au mur face du cyclorama du grand studio. 
 
+### Voici l'instalation en cours de l'oeuvre Canevas cosmique 
+![media](media/.jpg)
+
 ### Voici l'oeuvre Canevas cosmique completée
 ![media](media/Canevas_cosmique.jpg)
 
