@@ -8,10 +8,15 @@ Crescentia c'est le nom de l'exposition finale des étudiants en techniques d'in
 Crescentia, veut aussi « croissance » en latin, ce qui explique le choix du nom de cette exposition a propos du concept d'évolution. L'exposition comporte 5 oeuvres, Rhizomatique, Effet-Papillon, Kigo, Sonalux et Canevas Cosmique.
 
 ## Description
+### Canevas cosmique
 Premièrement, Canevas cosmique est une oeuvre ou le visiteure devra y intéragire en déplaçant une statuette sur une table qui fera bouger une certaine planette dans le système solaire projecter sur un ecrant au mur face du cyclorama du grand studio. 
 
-### Voici l'instalation en cours de l'oeuvre Canevas cosmique 
-![media](table_canevas_cosmique_avant.jpg) ![media](projection_canevas_cosmique_avant.jpg)
+### Voici l'instalation de la table en cours 
+![media](table_canevas_cosmique_avant.jpg) 
+
+### Voici l'instalation de la projection en cours 
+![media](projection_canevas_cosmique_avant.jpg)
+
 ### Voici l'oeuvre Canevas cosmique completée
 ![media](media/Canevas_cosmique.jpg)
 
