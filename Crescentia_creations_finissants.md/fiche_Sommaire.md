@@ -16,7 +16,6 @@ Crescentia, veut aussi « croissance » en latin, ce qui explique le choix du no
 ## Expérience vécu
 
 
-## Apuit visuel 
 
 
 
