@@ -27,7 +27,13 @@ Source: https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/prepr
 ### Sonalux
 Deuxièmement, les utilisateurs devront posé des gestes pour contrôler un environnement visuel et sonore évolutif ce qui les amènent vers un tout nouvel univers qui leur est propre. Celle si leurs donne une expérience en explorant les diverses composantes de la boîte ainsi que ses différentes scènes visuelles.
 
-### Voici l'instalation 
+### Voici l'instalation en cours
+![media](media/Sonalux_avant.jpg)
+
+### Voici l'oeuvre completée
+![media](media/Sonalux_apres.jpg)
+
+### Voici le schéma de l'installation prévue (Plan technique)
 
 
 
