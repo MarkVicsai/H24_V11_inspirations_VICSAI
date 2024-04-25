@@ -9,7 +9,7 @@ Crescentia, veut aussi « croissance » en latin, ce qui explique le choix du no
 
 ## Description
 ### Canevas cosmique
-Premièrement, Canevas cosmique est une oeuvre ou le visiteure devra y intéragire en déplaçant une statuette sur une table qui fera bouger une certaine planette dans le système solaire projecter sur un ecrant au mur face du cyclorama du grand studio. 
+Premièrement, Canevas cosmique est une oeuvre ou le visiteure devra y intéragire en déplaçant une statuette sur une table qui fera bouger une certaine planette dans le système solaire projecter sur un ecrant au mur face du cyclorama du grand studio. En utilisent des projecteurs, du code (avec animation), etc, l'utilisateur poura intéragire avec les statues déclancheant différents phénomènes au system solaire projecté sur l'écrant.
 
 ### Voici l'instalation de la table en cours 
 ![media](media/table_canevas_cosmique_avant.jpg) 
@@ -21,6 +21,13 @@ Premièrement, Canevas cosmique est une oeuvre ou le visiteure devra y intéragi
 ![media](media/Canevas_cosmique.jpg)
 
 ### Voici le schéma de l'installation prévue (Plan technique)
+![media](media/plantationFinal.png)
+Source: https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html
+
+### Sonalux
+Deuxièmement, les utilisateurs devront posé des gestes pour contrôler un environnement visuel et sonore évolutif ce qui les amènent vers un tout nouvel univers qui leur est propre. Celle si leurs donne une expérience en explorant les diverses composantes de la boîte ainsi que ses différentes scènes visuelles.
+
+### Voici l'instalation 
 
 
 
