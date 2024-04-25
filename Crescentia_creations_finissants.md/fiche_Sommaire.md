@@ -41,10 +41,10 @@ Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.
 Troisèmement, Rhizomatique est une oeuvre ou le visiteur devra intéragire avec la toile, celle-si donnera le sentiment d'une navigation dans le cerveau qui découvre tes souvenirs en projectant des projections immersives. Lorsque l'intéraction prend fin, la projection sur les murs va reprendre son état initale jusqu'à la prochaine intéraction. Plus qu'il y aura de l'intéraction avec la toile plus les projections seront claires. Cette oeuvre est située au cyclorama.
 
 ### Voici l'instalation en cours de la toile
-
+![media](media/Rhizomatique_toile_avant.jpg)
 
 ### Voici l'instalation en cours des projections immersives
-
+![media](media/Rhizomatique_projection_avant.jpg)
 
 ### Voici l'oeuvre completée
 
