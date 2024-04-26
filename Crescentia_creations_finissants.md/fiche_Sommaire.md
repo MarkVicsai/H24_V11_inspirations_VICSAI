@@ -50,7 +50,8 @@ Troisèmement, Rhizomatique est une oeuvre ou le visiteur devra intéragire avec
 ![media](media/Rhizomatique_apres.jpg)
 
 ### Voici le schéma de l'installation prévue (Plan technique)
-
+![media](media/rhizomatique_plantation.png)
+Source:https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
 
 
 
