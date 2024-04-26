@@ -47,7 +47,7 @@ Troisèmement, Rhizomatique est une oeuvre ou le visiteur devra intéragire avec
 ![media](media/Rhizomatique_projection_avant.jpg)
 
 ### Voici l'oeuvre completée
-
+![media](media/Rhizomatique_apres.jpg)
 
 ### Voici le schéma de l'installation prévue (Plan technique)
 
