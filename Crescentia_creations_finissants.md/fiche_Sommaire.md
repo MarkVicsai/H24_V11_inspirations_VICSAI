@@ -8,8 +8,18 @@ Crescentia c'est le nom de l'exposition finale des étudiants en techniques d'in
 Crescentia, veut aussi « croissance » en latin, ce qui explique le choix du nom de cette exposition a propos du concept d'évolution. L'exposition comporte 5 oeuvres, Rhizomatique, Effet-Papillon, Kigo, Sonalux et Canevas Cosmique.
 
 ## Description
-### Canevas cosmique
-Premièrement, Canevas cosmique est une oeuvre crée par Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikaël Tourangeau, ou le visiteur devra y intéragire en déplaçant une statuette sur une table qui fera bouger une certaine planette dans le système solaire projecter sur un ecrant au mur face du cyclorama du grand studio. En utilisent des projecteurs, du code (avec animation), etc, l'utilisateur poura intéragire avec les statues déclancheant différents phénomènes au system solaire projecté sur l'écrant.
+
+## Canevas cosmique
+
+### Créateurs
+
+Jacob Alarie-Brousseau
+Étienne Charron
+Jérémy Cholette
+Quoc Huy Do
+Mikaël Tourangeau
+
+Premièrement, Canevas cosmique est une oeuvre ou le visiteur devra y intéragire en déplaçant une statuette sur une table qui fera bouger une certaine planette dans le système solaire projecter sur un ecrant au mur face du cyclorama du grand studio. En utilisent des projecteurs, du code (avec animation), etc, l'utilisateur poura intéragire avec les statues déclancheant différents phénomènes au system solaire projecté sur l'écrant.
 
 ### Voici l'instalation de la table en cours 
 ![media](media/table_canevas_cosmique_avant.jpg) 
@@ -71,6 +81,7 @@ Source: https://github.com/Iteration6/Effet-Papillon/blob/2b2e73f72208211f2ff77f
 ## Analyse
 Pour chaqu'une de ces oeuvres comportent leurs composantes essentielles ce qui les rends uniques de l'une des autres. Les trois cours fondamentals pour  avoir les compétences pour créer et réaliser ce genre projet sont tous les cours de web, la modélisation 3D et interactivité ludique. Le web est très important dans les cours de multimédias et pour le projet de Crescentia car c'est dans ce cours ou on apprend a coder, tous les oeuvres multimédia contiennent du code. L'interactivité ludique c'est la manière dont un ordinateur, un programme ou un contenu répond aux actions des personnes qui les utilisent. Tout les oeuvres présentés par les éleves du programe TIM utilisent la matière de ce cours pour donner au visiteur le choix d'intéragir avec leurs oeuvres. La modélisation 3D c'est le processus de création d'objets 3D à l'aide d'une application spécialisée, tout les oeuvres utilise le 3d qui donne l'effet visuel pour créer des scènes complètes d'images fixes ou d'animation a leurs oeuvres. 
 
+L'Effet Pappillon utilise les speakers pour donner une expérience aux visiteurs plus réel lorqu'ils intéragisent avec les composantes mécanique de l'oeuvre. Par exemple, le son de fond qui donne une ambiance calme et douce ainsi des effects sonnores qui entrelace les intéragisements au son.
 
 
 
