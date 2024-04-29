@@ -61,7 +61,7 @@ Quatrièmement, Effet Papillon est une oeuvre ou le visiteur devra intéragire a
 
 
 ### Voici l'oeuvre completée
-
+![media](media/Effet_pappillon_final.jpg)
 
 ### Voici le schéma de l'installation prévue (Plan technique)
 
