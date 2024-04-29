@@ -40,7 +40,9 @@ L'élément fort de l'exposition Kigo c'est le projecteur hitbox ce qui affichag
 ### Voici le schéma de l'installation prévue qui comprend la mise en espace (Plan technique)
 ![media](media/plantation_technique.png)
 
-### Composantes et techniques
+![media](media/Kigo_ecrant.jpg)
+
+### Composantes et techniques (Éléments nécessaires à la mise en exposition)
 
 #### Audio
 
@@ -96,9 +98,10 @@ L'élément fort de l'exposition Kigo c'est le projecteur hitbox ce qui affichag
 
 - 1 Magic Arm
 
-
-### Éléments nécessaires à la mise en exposition
-
-
+Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 
 ## Apréciation
+
+
+
+
