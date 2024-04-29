@@ -14,9 +14,13 @@ Crescentia, veut aussi « croissance » en latin, ce qui explique le choix du no
 ### Créateurs
 
 Jacob Alarie-Brousseau
+
 Étienne Charron
+
 Jérémy Cholette
+
 Quoc Huy Do
+
 Mikaël Tourangeau
 
 Premièrement, Canevas cosmique est une oeuvre ou le visiteur devra y intéragire en déplaçant une statuette sur une table qui fera bouger une certaine planette dans le système solaire projecter sur un ecrant au mur face du cyclorama du grand studio. En utilisent des projecteurs, du code (avec animation), etc, l'utilisateur poura intéragire avec les statues déclancheant différents phénomènes au system solaire projecté sur l'écrant.
