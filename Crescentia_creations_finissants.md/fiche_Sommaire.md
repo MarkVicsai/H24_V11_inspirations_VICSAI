@@ -69,6 +69,9 @@ Quatrièmement, Effet Papillon est une oeuvre ou le visiteur devra intéragire a
 Source: https://github.com/Iteration6/Effet-Papillon/blob/2b2e73f72208211f2ff77f123d528beb9cf9ef03/docs/preproduction/medias/plantation.drawio.png
 
 ## Analyse
+Pour chaqu'une de ces oeuvres comportent leurs composantes essentielles ce qui les rends uniques de l'une des autres. Les trois cours fondamentals pour  avoir les compétences pour créer et réaliser ce genre projet sont tous les cours de web, la modélisation 3D et interactivité ludique. Le web est très important dans les cours de multimédias et pour le projet de Crescentia car c'est dans ce cours ou on apprend a coder, tous les oeuvres multimédia contiennent du code. L'interactivité ludique c'est la manière dont un ordinateur, un programme ou un contenu répond aux actions des personnes qui les utilisent. Tout les oeuvres présentés par les éleves du programe TIM utilisent la matière de ce cours pour donner au visiteur le choix d'intéragir avec leurs oeuvres. La modélisation 3D c'est le processus de création d'objets 3D à l'aide d'une application spécialisée, tout les oeuvres utilise le 3d qui donne l'effet visuel pour créer des scènes complètes d'images fixes ou d'animation a leurs oeuvres. 
+
+
 
 
 ## Expérience vécu
