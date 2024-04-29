@@ -65,6 +65,7 @@ Quatrièmement, Effet Papillon est une oeuvre ou le visiteur devra intéragire a
 
 ### Voici le schéma de l'installation prévue (Plan technique)
 ![media](media/plantation.drawio.png)
+
 Source: https://github.com/Iteration6/Effet-Papillon/blob/2b2e73f72208211f2ff77f123d528beb9cf9ef03/docs/preproduction/medias/plantation.drawio.png
 
 ## Analyse
