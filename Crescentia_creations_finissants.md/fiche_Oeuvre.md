@@ -44,57 +44,57 @@ L'élément fort de l'exposition Kigo c'est le projecteur hitbox ce qui affichag
 
 #### Audio
 
-1 Console de sons
+- 1 Console de sons
 
-1 Carte de sons
+- 1 Carte de sons
 
-2 Haut-parleurs Genelec 8010APM
+- 2 Haut-parleurs Genelec 8010APM
 
-4 Câbles XLR (M->F) (Longueur minimale estimée entre 4-6 mètres)
+- 4 Câbles XLR (M->F) (Longueur minimale estimée entre 4-6 mètres)
 
 #### Vidéo
 
-1 Projecteur
+- 1 Projecteur
 
-1 Kinect V2
+- 1 Kinect V2
 
-1 sytème d'acrochage pour le projecteur
+- 1 sytème d'acrochage pour le projecteur
 
 #### Électricité
 
-2 Cordon IEC (pour alimenter les haut-parleurs)
+- 2 Cordon IEC (pour alimenter les haut-parleurs)
 
-2 Multiprise
+- 2 Multiprise
 
-2 Extensions de fils électrique (Longueur minimale estimée entre 6-8 mètres)
+- 2 Extensions de fils électrique (Longueur minimale estimée entre 6-8 mètres)
 
-1 Câble d’alimentation pour ordinateur
+- 1 Câble d’alimentation pour ordinateur
 
-1 Câble d’alimentation pour console de son
+- 1 Câble d’alimentation pour console de son
 
 #### Réseau
 
-2 Fils Ethernet (longueur minimale estimée entre 4-8 mètres)
+- 2 Fils Ethernet (longueur minimale estimée entre 4-8 mètres)
 
-1 HDMI Extender
+- 1 HDMI Extender
 
-2 Câbles HDMI
+- 2 Câbles HDMI
 
-Câble displayPort
+- Câble displayPort
 
 #### Ordinateur
 
-1 Chariot Ordinateur
+- 1 Chariot Ordinateur
 
 #### Autres
 
-Tapis de protection
+- Tapis de protection
 
-3 Safety en métal
+- 3 Safety en métal
 
-1 Powercon
+- 1 Powercon
 
-1 Magic Arm
+- 1 Magic Arm
 
 
 ### Éléments nécessaires à la mise en exposition
