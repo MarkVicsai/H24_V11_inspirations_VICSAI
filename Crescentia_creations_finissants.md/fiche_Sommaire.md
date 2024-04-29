@@ -10,7 +10,6 @@ Crescentia, veut aussi « croissance » en latin, ce qui explique le choix du no
 ## Description
 
 ## Canevas cosmique
-
 ### Créateurs
 
 Jacob Alarie-Brousseau
