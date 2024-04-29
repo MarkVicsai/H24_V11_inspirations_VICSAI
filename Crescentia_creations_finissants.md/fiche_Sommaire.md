@@ -129,7 +129,7 @@ Canevas cosmique utilise des vfx d'animation 3D ce qui est projecter sur un ecra
 
 ## Expérience vécu
 
-En somme, j'ai bien aimer l'expérience de voir la réalisation de chaqu'une de ces oeuvres, voir l'énorme code derrière les ordinateurs qui ont utilisés pour programmer l'imagination des élèves et apprendre plus sur les composantes multimédias qui rend chaque oeuvre unique. 
+En somme, j'ai bien aimer l'expérience de voir la réalisation de chaqu'une de ces oeuvres, voir l'énorme code derrière les ordinateurs qui ont utilisés pour programmer l'imagination des élèves et apprendre plus sur les composantes multimédias qui rend chaque oeuvre unique. L'oeuvre que j'ai aimer le moin (5) c'est Sonalux, car j'ai pas trop aimer le concept, cette oeuvre contien des projections, mais toutes les autres oeuvres en comporte aussi. Canevas Cosmique (4), j'ai aimer le concept de faire bouger des statuettes sur une plance et cela fait animer le systeme solaire, rien de trop impressionant comparer au autres oeuvre mais je l'aime bien. Rhizomatique (3), j'ai beacoup aimer comment ont puisse controler l'intensité des visuels projecter sur le cyclorama et la toile selon notre forcer appuyer sur la toile. J'ai bien aimer le concept de cet oeuvre en illustrant notre cerveau et nos mémoires sur un projecteur. Effet-Papillon (2), c'est mon oeuvre préférer selon les 4 oeuvre décrites dans mon sommaire, j'ai beacoup aimer l'utilisation du petit espace du petit studio et faire une oeuvre autant fascinante, le son donne une humeur calme et le fait qu'ont puisse intéragire avec presque tout dans la piece est éblouissant. L'éxécution de cette oeuvre est parfaite pour moi.
 
 
 
