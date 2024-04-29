@@ -37,8 +37,18 @@ Premièrement, Canevas cosmique est une oeuvre ou le visiteur devra y intéragir
 ![media](media/plantationFinal.png)
 Source: https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html
 
-### Sonalux
-Deuxièmement, Sonalux est une oeuvre crée par Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins, ou le visiteur devra posé des gestes pour contrôler un environnement visuel et sonore évolutif ce qui les amènent vers un tout nouvel univers qui leur est propre. Celle si leurs donne une expérience en explorant les diverses composantes de la boîte ainsi que ses différentes scènes visuelles. Celle si est situer au mur en face de la porte d'entrée.
+## Sonalux
+### Créateurs
+
+Antoine Haddad
+
+Camélie Laprise
+
+Ghita Alaoui 
+
+Vincent Desjardins
+
+Deuxièmement, Sonalux est une oeuvre ou le visiteur devra posé des gestes pour contrôler un environnement visuel et sonore évolutif ce qui les amènent vers un tout nouvel univers qui leur est propre. Celle si leurs donne une expérience en explorant les diverses composantes de la boîte ainsi que ses différentes scènes visuelles. Celle si est situer au mur en face de la porte d'entrée.
 
 ### Voici l'instalation en cours
 ![media](media/Sonalux_avant.jpg)
@@ -50,7 +60,17 @@ Deuxièmement, Sonalux est une oeuvre crée par Antoine Haddad, Camélie Laprise
 ![media](media/schema_plantation.png)
 Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html
 
-### Rhizomatique
+## Rhizomatique
+### Créateurs
+
+Jolyanne Desjardins
+
+MaÏka Désy
+
+Laurie Houde
+
+Felix Testa Radovanovic
+
 Troisèmement, Rhizomatique est une oeuvre ou le visiteur devra intéragire avec la toile, celle-si donnera le sentiment d'une navigation dans le cerveau qui découvre tes souvenirs en projectant des projections immersives. Lorsque l'intéraction prend fin, la projection sur les murs va reprendre son état initale jusqu'à la prochaine intéraction. Plus qu'il y aura de l'intéraction avec la toile plus les projections seront claires. Cette oeuvre est située au cyclorama.
 
 ### Voici l'instalation en cours de la toile
@@ -67,7 +87,21 @@ Troisèmement, Rhizomatique est une oeuvre ou le visiteur devra intéragire avec
 
 Source: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
 
-### Effet Papillon
+## Effet Papillon
+### Créateurs
+
+Raphaël Dumont
+
+Alexis Bolduc
+
+William Morel
+
+Alexia (Ryan) Papanikolaou
+
+Viktor Zhuravlev
+
+Jasmine Lapierre
+
 Quatrièmement, Effet Papillon est une oeuvre ou le visiteur devra intéragire avec multiples éléments techniques pour recréer un cycle de vie d'un pommier. Celle-si met en lumière l'effet papillon à travers des éléments électroniques, comme les étapes pour donner une expériense au visiteur a propos de cette oeuvre. L'effet papillon c'est de petites actions peuvent déclencher des conséquences imprévisibles à long terme. Le son et les éléments visuels donne une expérience plus réel au visiteurs 
 
 ### Voici l'instalation en cours 
