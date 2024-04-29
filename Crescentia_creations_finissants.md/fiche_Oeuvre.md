@@ -3,7 +3,7 @@
 ## Fiche Oeuvre: Crescentia creations finissants 
 
 ## Kigo
-
+![media](media/affiche_Kigo.jpg)
 ### Créateurs
 
 Érick Ouellette
