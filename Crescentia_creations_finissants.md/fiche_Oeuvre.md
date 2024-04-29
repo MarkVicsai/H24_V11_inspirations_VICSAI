@@ -42,7 +42,7 @@ L'élément fort de l'exposition Kigo c'est le projecteur hitbox ce qui affichag
 
 ### Composantes et techniques
 
-Audio
+#### Audio
 
 1 Console de sons
 
@@ -52,7 +52,7 @@ Audio
 
 4 Câbles XLR (M->F) (Longueur minimale estimée entre 4-6 mètres)
 
-Vidéo
+#### Vidéo
 
 1 Projecteur
 
@@ -60,7 +60,7 @@ Vidéo
 
 1 sytème d'acrochage pour le projecteur
 
-Électricité
+#### Électricité
 
 2 Cordon IEC (pour alimenter les haut-parleurs)
 
@@ -72,7 +72,7 @@ Vidéo
 
 1 Câble d’alimentation pour console de son
 
-Réseau
+#### Réseau
 
 2 Fils Ethernet (longueur minimale estimée entre 4-8 mètres)
 
@@ -82,11 +82,11 @@ Réseau
 
 Câble displayPort
 
-Ordinateur
+#### Ordinateur
 
 1 Chariot Ordinateur
 
-Autres
+#### Autres
 
 Tapis de protection
 
