@@ -105,7 +105,7 @@ L'élément fort de l'exposition Kigo c'est le projecteur hitbox ce qui affichag
 Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 
 ## Apréciation
-
+En conclusion, cette oeuvre est mon oeuvre préféré (1) parmis toutes les oeuvres présenter durant l'exposition Crescentia des finissants du programe technique d'intégration multimédia (TIM). Ce projet me fait penser au jeaux comme Subway surfers et Kinect, ce qui sont des jeux que je jouais beacoup lors de mon enfence, cette oeuvre ma fait rappeler de ces jeux lorsque je jouais a Kigo. Lorsque je suis rentrer dans le grand studio l'écrant de cette oeuvre est la premiere chose qui a pris mon attention. Le fait avec cette oeuvre, c'est un jeu interpreter comme une ouvre multimédia, ce qui le rend amusant. Les détails sonnores et visuels captent ton attention tout en même temps de te divertire. Bref c'est comme si tu joue a un jeux video mais en vrai vie, avec ton corps, ce qui rend l'expérience de Kigo plus intéresante.
 
 
 
