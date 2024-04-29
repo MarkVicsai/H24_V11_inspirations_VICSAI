@@ -55,7 +55,15 @@ Troisèmement, Rhizomatique est une oeuvre ou le visiteur devra intéragire avec
 Source: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
 
 ### Effet Papillon
+Quatrièmement, Effet Papillon est une oeuvre ou le visiteur devra intéragire avec multiples éléments techniques pour recréer un cycle de vie d'un pommier. Celle-si met en lumière l'effet papillon à travers des éléments électroniques, comme les étapes pour donner une expériense au visiteur a propos de cette oeuvre. L'effet papillon c'est de petites actions peuvent déclencher des conséquences imprévisibles à long terme. Le son et les éléments visuels donne une expérience plus réel au visiteurs 
 
+### Voici l'instalation en cours 
+
+
+### Voici l'oeuvre completée
+
+
+### Voici le schéma de l'installation prévue (Plan technique)
 
 ## Analyse
 
