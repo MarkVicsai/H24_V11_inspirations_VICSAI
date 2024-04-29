@@ -118,14 +118,18 @@ Source: https://github.com/Iteration6/Effet-Papillon/blob/2b2e73f72208211f2ff77f
 ## Analyse
 Pour chaqu'une de ces oeuvres comportent leurs composantes essentielles ce qui les rends uniques de l'une des autres. Les trois cours fondamentals pour  avoir les compétences pour créer et réaliser ce genre projet sont tous les cours de web, la modélisation 3D et interactivité ludique. Le web est très important dans les cours de multimédias et pour le projet de Crescentia car c'est dans ce cours ou on apprend a coder, tous les oeuvres multimédia contiennent du code. L'interactivité ludique c'est la manière dont un ordinateur, un programme ou un contenu répond aux actions des personnes qui les utilisent. Tout les oeuvres présentés par les éleves du programe TIM utilisent la matière de ce cours pour donner au visiteur le choix d'intéragir avec leurs oeuvres. La modélisation 3D c'est le processus de création d'objets 3D à l'aide d'une application spécialisée, tout les oeuvres utilise le 3d qui donne l'effet visuel pour créer des scènes complètes d'images fixes ou d'animation a leurs oeuvres. 
 
-L'Effet Pappillon utilise les speakers pour donner une expérience aux visiteurs plus réel lorqu'ils intéragisent avec les composantes mécanique de l'oeuvre. Par exemple, le son de fond qui donne une ambiance calme et douce ainsi des effects sonnores qui entrelace les intéragisements au son.
-La Rhrizomatique utilise une animation générative pour la toile ainsi d'une animation sur le mur qui ce déclance à l'aide d'une projection lorsque le visiteur intéragisent avec celles-si. Une animation générative domaine en croissance rapide qui implique la création d'art à l'aide d'algorithmes et d'autres techniques informatiques en utilisent l'intéligense artificiel. 
+Effet Pappillon utilise les speakers pour donner une expérience aux visiteurs plus réel lorqu'ils intéragisent avec les composantes mécanique de l'oeuvre. Par exemple, le son de fond qui donne une ambiance calme et douce ainsi des effects sonnores qui entrelace les intéragisements au son.
 
+Rhrizomatique utilise une animation générative pour la toile ainsi d'une animation sur le mur qui ce déclance à l'aide d'une projection lorsque le visiteur intéragisent avec celles-si. Une animation générative domaine en croissance rapide qui implique la création d'art à l'aide d'algorithmes et d'autres techniques informatiques en utilisent l'intéligense artificiel. 
+
+Sonalux utilise 3 paysages visuels génératifs pour les 3 murs blancs avec TouchDesigner, celle-si est une plateforme puissante qui permet aux artistes et aux créateurs de produire des expériences visuelles interactives. Les paysages visuels génératifs dans TouchDesigner se réfèrent à la création d'environnements visuels dynamiques et évolutifs à l'aide de ce logiciel de création en temps réel.
+
+Canevas cosmique utilise des vfx d'animation 3D ce qui est projecter sur un ecrant, celle-si sert à enrichir l'aspect visuel des animations en ajoutant des éléments numériques. 
 
 
 ## Expérience vécu
 
-
+En somme, j'ai bien aimer l'expérience de voir la réalisation de chaqu'une de ces oeuvres, voir l'énorme code derrière les ordinateurs qui ont utilisés pour programmer l'imagination des élèves et apprendre plus sur les composantes multimédias qui rend chaque oeuvre unique. 
 
 
 
