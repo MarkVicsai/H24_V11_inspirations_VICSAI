@@ -18,9 +18,13 @@ Antoine Dion
 
 ## Introduction
 Titre de l'oeuvre: Kigo
+
 Année de réalisation: 2024
+
 Type d'exposition: temporaire
+
 Date de visite: 21 février
+
 Lieu de l'exposition: grand studio
 
 ## Description 
