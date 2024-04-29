@@ -17,11 +17,16 @@ Nicolas St-Martin
 Antoine Dion
 
 ## Introduction
-Kigo est le nom de l'exposition que je désir décrire, c'est mon oeuvre préférer parmis les 5 oeuvres présenter par les éleves d'intégration multimédia pour les création des finissants du projet Crescenta. 
-
-
+Titre de l'oeuvre: Kigo
+Année de réalisation: 2024
+Type d'exposition: temporaire
+Date de visite: 21 février
+Lieu de l'exposition: grand studio
 
 ## Description 
+
+Kigo est le nom de l'exposition que je désir décrire, c'est mon oeuvre préférer parmis les 5 oeuvres présenter par les éleves d'intégration multimédia pour les création des finissants du projet Crescenta. 
+
 
 ## Analyse 
 
