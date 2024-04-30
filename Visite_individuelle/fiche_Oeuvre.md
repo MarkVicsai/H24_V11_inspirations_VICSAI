@@ -22,10 +22,27 @@ Le positionement de ce projecteur ce situe dans une chambre en face du monument 
 
 
 ## Type d'instalation
+Cette installation peut prendre différentes formes selon le lieu et le contexte, la projection interactive est sur le mur du MBAM. Les pixels et les points sont souvent utilisés pour représenter des monuments symbolique ou des paysages urbains, ajoutant une dimension supplémentaire à l'œuvre.
 
 ## Composantes et techniques
+On a pas acces a l'interieur de la chambre donc je ne peut pas trop expliquer de ce qu'elle compose vu que la majoriter des composantes techniques sont a l'interieur de celle-si. Néanmoins, l'exposition est simple vue que c'est juste une projection a partir d'une chambre vers la facade du MBAM. 
+
+#### Voici ce que j'ai observer durant ma visite.
+
+- Projection et mapping vidéo
+
+- Pixels et points
+
+- Médiums mixtes
+
+- Éclairage
+
+- Installation interactive
+
 
 ## Éléments nécessaires à la mise en exposition
+De ce que j'ai cite dans le paragraph de composantes et techniques, celles-si sont des éléments crucial à la mise en exposition
+
 
 ## Experience vécue
 
