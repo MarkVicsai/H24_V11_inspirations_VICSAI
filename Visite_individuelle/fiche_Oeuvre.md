@@ -6,6 +6,8 @@ Pixels, petits points et monument presentée par Nathalie Bujold, née en Gaspé
 ## Description de l'oeuvre
 À la bordure de l’artisanat et de l’art numérique, Pixels, petits points et monument plonge les passants et passantes de la rue Sherbrooke Ouest. À l'aide d'un projecteur synthétiseur vidéo, Bujold peut créer des paysages imaginatifs et des structures monumentales tel que le Musée des beaux-arts.
 
+
+
 Le positionement de ce projecteur ce situe dans une chambre en face du monument a un angle ou elle peut couvrire tout le musée. Le projecteur est interpreter comme une fenetre pour donner l'impression que c'est simplement une fenetre normal.
 
 
