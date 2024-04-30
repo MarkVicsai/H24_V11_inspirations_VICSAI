@@ -33,16 +33,19 @@ On a pas acces a l'interieur de la chambre donc je ne peut pas trop expliquer de
 
 - Pixels et points
 
-- Médiums mixtes
-
 - Éclairage
-
-- Installation interactive
 
 
 ## Éléments nécessaires à la mise en exposition
-De ce que j'ai cite dans le paragraph de composantes et techniques, celles-si sont des éléments crucial à la mise en exposition
+De ce que j'ai cite dans le paragraph de composantes et techniques, celles-si sont des éléments crucial à la mise en exposition. 
 
+Premierement, Bujold utilise la technique de projection vidéo et de mapping pour animer ses créations. Cela permet de donner du mouvement et de la dynamique à l'œuvre.
+
+Deuxiemement, les éléments essentiel de l'œuvre sont les pixels et les petits points, elles servent a créer des formes, des textures et des détails.
+
+Troisiemement,  L'éclairage joue un rôle important, car l'éclairage peut créer des jeux d'ombre et de lumière, qui met l'accent sur les formes et les contours des pixels et des points.
+
+Bref, la combinaison de ces trois éléments donne une experience fasinente au visiteure qui ce promene sur la rue lors de la tombe du jour.
 
 ## Experience vécue
 
