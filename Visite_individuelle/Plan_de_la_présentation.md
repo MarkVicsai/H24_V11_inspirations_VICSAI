@@ -38,8 +38,8 @@
 
 la combinaison de ces trois éléments donne une experience fasinente au visiteure qui ce promene sur la rue lors de la tombe du jour.
 
-###
+### Voici la chambre du projecteur durant le jour
 ![media](media/chambre_projecteur_jour.jpg)
 
-###
+### Voici la chambre du projecteur durant la nuit
 ![media](media/chambre_projecteur_nuit.jpg)
