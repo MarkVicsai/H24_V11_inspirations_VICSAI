@@ -18,7 +18,9 @@ Le deuxieme mode s'appelle "Quai des Arts" par En Masse ou les couleurs sont noi
 
 Le troiseme mode j'ai pas eu la chance d'avaoir une photo/video claire sur celui la, mais les couleurs son bleu truquoise et beige avec une texture de bois et de roche.
 
-Le quatrieme mode  j'ai pas eu la chance d'avaoir une photo/video claire sur celui la non plus, mais les couleurs son rose,
+Le quatrieme mode  j'ai pas eu la chance d'avaoir une photo/video claire sur celui la non plus, mais les couleurs son rose.
+
+![media](media/ecrant_ai.jpg)
 
 ## Type d'instalation
 
@@ -28,6 +30,7 @@ Le quatrieme mode  j'ai pas eu la chance d'avaoir une photo/video claire sur cel
 
 ## Composantes et techniques
 
+![media](media/intérieur_écrant_tactile_ai.jpg)
 
 ## Éléments nécessaires à la mise en exposition
 
