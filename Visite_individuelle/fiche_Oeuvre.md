@@ -37,7 +37,7 @@ On a pas acces a l'interieur de la chambre donc je ne peut pas trop expliquer de
 
 
 ## Éléments nécessaires à la mise en exposition
-De ce que j'ai cite dans le paragraph de composantes et techniques, celles-si sont des éléments crucial à la mise en exposition. 
+De ce que j'ai cite dans le paragraphe de composantes et techniques, celles-si sont des éléments crucial à la mise en exposition. 
 
 Premierement, Bujold utilise la technique de projection vidéo et de mapping pour animer ses créations. Cela permet de donner du mouvement et de la dynamique à l'œuvre.
 
