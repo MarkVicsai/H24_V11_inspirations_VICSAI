@@ -28,7 +28,7 @@ Le deuxieme ecrant sert a disposer les changement fait sur l'ecrant tactile.
 Cet oeuvre a une type d'instalation intéractive, comme mentionner précédament les visiteures peuvent intéragires avec l'écrant tactile pour tester les différents type de filte d,intéligense artificiel.
 
 ## Mise en espace
-La mise en espace est simple, cette oeuvre consiste de simplement deux écrants. L`écrant principale est seulement une projection qui varie selon les modification que fait le visiteur sur l`écrant tactile. L'écrant principal est positionner contre un mur et l'écrant tactile est positionner a ca gauche a un angle de 45 degrée.
+La mise en espace est simple, cette oeuvre consiste de simplement deux écrants. L'écrant principale est seulement une projection qui varie selon les modification que fait le visiteur sur l`écrant tactile. L'écrant principal est positionner contre un mur et l'écrant tactile est positionner a ca gauche a un angle de 45 degrée.
 
 ## Composantes et techniques
 À l'oeil je n'arrive pas a identifier chaqu'une des composantes techniques. 
