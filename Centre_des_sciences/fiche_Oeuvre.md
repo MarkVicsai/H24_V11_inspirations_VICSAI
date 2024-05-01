@@ -46,5 +46,8 @@ La mise en espace est simple, cette oeuvre consiste de simplement deux écrants.
 ## Apreciation
 Parmis toutes les oeuvres disposées au centre des sciences, celle qui ressortit a mes yeux c'est l'oeuvre qui consiste de deux écrants ou elle utilise l'intéligense artificiel. J'ai bien aimer le fait qu'on a une bare glissante sur l'écrant tactile a la gauche de l'écrant principale pour controler l'intensiter des filtres ainsi du choix de multiples mode artificiel. Un détail que je ferai differament a cette oeuvre c'est de déplacer l'écrant tactile en face de l'écrant principale pour voir les modifications que le visiteur commet, en sorte que celle-si n,est pas visible par l,ecrant qui projette les visuels.
 
+![media](media/tout_les_crédit.jpg)
+
+
 
 
