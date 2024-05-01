@@ -10,7 +10,7 @@ Malheureusement, durant notre sortie lors du 10 avril 2024 au Centre des science
 ## Description
 L'oeuvre AI consite de deux ecrants, un petit ecrant tactile avec 4 mode de filtre artificiel ou tu peut controler controler l'intensite avec une glissiere. Le niveau d'intensite s'illustre avec un petit cerveau jusqu'a un grand cerveau, plus grand le cerveau plus grande sera l'intensite des filtres et vise versa.
 
-![media](media/_tactile_ai.jpg)
+![media](media/écrant_tactile_ai.jpg)
 
 Le premier mode s'appelle "Sans titre" par David Meggs Hook ou les couleurs afficher sur le grand ecrant de visionnement sons plus ou moin distortees et saturer plus vers la couleur rouge.
 
