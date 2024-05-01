@@ -48,5 +48,5 @@ la combinaison de ces trois éléments donne une experience fasinente au visiteu
 ## Projecteur
 - Ce situe dans une chambre en face du monument a un angle ou elle peut couvrire tout le musée
 -  Le projecteur est interpreter comme une fenetre pour donner l'impression que c'est simplement une fenetre normal
-- Pourquoi? La raison est les rayonements des projecteurs seront moins claires si elles frappent la fenêtre avant la facade du musée et elle couvreront surement pas toute le mur.
+- Pourquoi? Rayonements des projecteurs seront moins claires si elles frappent la fenêtre avant la facade du musée et elle couvreront surement pas toute le mur.
 
