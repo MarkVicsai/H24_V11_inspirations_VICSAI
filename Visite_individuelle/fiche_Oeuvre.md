@@ -48,5 +48,5 @@ Troisiemement,  L'éclairage joue un rôle important, car l'éclairage peut cré
 Bref, la combinaison de ces trois éléments donne une experience fasinente au visiteure qui ce promene sur la rue lors de la tombe du jour.
 
 ## Experience vécue
-Je me promenais sur la Rue Sherbrooke Ouest duran le jourpour voir a quoi ressemblais le MBAM
+Je me promenais sur la Rue Sherbrooke Ouest pour voir a quoi ressemblais le MBAM duranT le jour sans les projection, j'ai refait un tour lors de la tombée du jour pour voir les projection facinantes qui longent la facade du musée. J'ai vraiment aimer cette oeuvre malgré ca simplicitée, mais en la regardant on dirai qu'ot est dans autre univers, un univers virtuel. C'est dômage qu'il n'étais pas possible d'accéder la chambre ou ce situe le projecteur pour voir en détails les composantes et techniques de cette oeuvre. Une chause que je ferais différament c'est d'installer des haut-parleurs pour jouer des sons d'ambiance proche du musée pour donner une expérience encore plus fabuleuse au visiteur.
 
