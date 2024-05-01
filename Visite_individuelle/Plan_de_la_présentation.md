@@ -1,10 +1,11 @@
 # Visite individuel
 
 ##  Musée des beaux-arts
-### 
+
+### Voici l'oeuvre durant le jour
 ![media](media/musée_jour.jpg)
 
-###
+### Voici l'oeuvre durant la nuit
 ![media](media/musée_nuit.jpg)
 
 
