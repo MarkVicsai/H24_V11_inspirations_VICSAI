@@ -20,6 +20,8 @@ Le troiseme mode j'ai pas eu la chance d'avaoir une photo/video claire sur celui
 
 Le quatrieme mode  j'ai pas eu la chance d'avaoir une photo/video claire sur celui la non plus, mais les couleurs son rose.
 
+Le deuxieme ecrant sert a disposer les changement fait sur l'ecrant tactile.
+
 ![media](media/ecrant_ai.jpg)
 
 ## Type d'instalation
