@@ -22,7 +22,7 @@ Le positionement de ce projecteur ce situe dans une chambre en face du monument 
 
 
 ## Type d'instalation
-Cette installation peut prendre différentes formes selon le lieu et le contexte, la projection interactive est sur le mur du MBAM. Les pixels et les points sont souvent utilisés pour représenter des monuments symbolique ou des paysages urbains, ajoutant une dimension supplémentaire à l'œuvre.
+Le type installation immersive est un concept qui fait plonger le visiteur dans un environnement autre que leur réalité actuelle. L'oeuvre peut prendre différentes formes selon le lieu et le contexte, la projection est sur le mur du MBAM. Les pixels et les points sont souvent utilisés pour représenter des monuments symbolique ou des paysages urbains, ajoutant une dimension supplémentaire à l'œuvre.
 
 ## Composantes et techniques
 On a pas acces a l'interieur de la chambre donc je ne peut pas trop expliquer de ce qu'elle compose vu que la majoriter des composantes techniques sont a l'interieur de celle-si. Néanmoins, l'exposition est simple vue que c'est juste une projection a partir d'une chambre vers la facade du MBAM. 
@@ -48,5 +48,5 @@ Troisiemement,  L'éclairage joue un rôle important, car l'éclairage peut cré
 Bref, la combinaison de ces trois éléments donne une experience fasinente au visiteure qui ce promene sur la rue lors de la tombe du jour.
 
 ## Experience vécue
-
+Je me promenais sur la Rue Sherbrooke Ouest duran le jourpour voir a quoi ressemblais le MBAM
 
