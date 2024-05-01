@@ -12,7 +12,7 @@ Pixels, petits points et monument presentée par Nathalie Bujold, née en Gaspé
 ### Voici l'oeuvre durant le soir
 ![media](media/musée_nuit.jpg)
 
-Le positionement de ce projecteur ce situe dans une chambre en face du monument a un angle ou elle peut couvrire tout le musée. Le projecteur est interpreter comme une fenetre pour donner l'impression que c'est simplement une fenetre normal.
+Le positionement de ce projecteur ce situe dans une chambre en face du monument a un angle ou elle peut couvrire tout le musée. Le projecteur est interpreter comme une fenetre pour donner l'impression que c'est simplement une fenetre normal. Pourquoi c'est interprété pour une fenêtre et non un simple projecteur dans une chambre. La raison est les rayonements des projecteurs seront moins claires si elles frappent la fenêtre avant la facade du musée et elle couvreront surement pas toute le mur.
 
 ### Voici la chambre du projecteur durant le jour
 ![media](media/chambre_projecteur_jour.jpg)
