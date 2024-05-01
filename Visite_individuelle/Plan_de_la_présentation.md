@@ -50,3 +50,9 @@ la combinaison de ces trois éléments donne une experience fasinente au visiteu
 -  Le projecteur est interpreter comme une fenetre pour donner l'impression que c'est simplement une fenetre normal
 - Pourquoi? Rayonements des projecteurs seront moins claires si elles frappent la fenêtre avant la facade du musée et elle couvreront surement pas toute le mur.
 
+## Expérience
+- J'ai aimer cette oeuvre simple
+-  Donne l'illusion d'être dans un autre univers, un univers virtuel.
+-  Dômage qu'il n'étais pas possible d'accéder la chambre ou ce situe le projecteur.
+-  Améloriation; installer des haut-parleurs pour jouer des sons d'ambiance proche du musée
+
